@@ -1,10 +1,95 @@
 {
+ "Mm..Ah...Ooo~": {
+    "password": "meow7822",
+    "registered": "2025-10-25T14:17:36.988Z",
+    "lastSeen": "2025-11-04T17:54:22.873Z",
+    "bio": "Гавным гавно, насрал я в жопу и светло..",
+    "friends": [
+      "KirillEblan"
+    ],
+    "avatar": "🪬"
+  },
+  "FlamingOxygen": {
+    "password": "РХДШ",
+    "registered": "2025-10-25T16:46:06.531Z",
+    "lastSeen": "2025-11-04T17:02:22.661Z",
+    "bio": "",
+    "friends": [
+      "KirillEblan",
+      "Mm..Ah...Ooo~",
+      "WayPoint"
+    ],
+    "avatar": "🪬"
+  },
   "KirillEblan": {
     "password": "pizdaliz123shluha123",
-    "registered": "2025-11-08T09:54:12.066Z",
-    "lastSeen": "2025-11-08T10:26:34.732Z",
-    "bio": "",
-    "friends": [],
-    "avatar": "🪠"
+    "registered": "2025-10-24T20:12:21.452Z",
+    "lastSeen": "2025-11-06T17:34:53.415Z",
+    "bio": "T A M ® V K A\n          \n\nКирилл долбаеб, еблан, конченый мудак. Не согласен - согласись. Эуу я разраб TryNoter)",
+    "friends": [
+      "WayPoint",
+      "Mm..Ah...Ooo~",
+      "FlamingOxygen",
+      "TryNoter",
+      "kornix-dev",
+      "TryNoterSMM",
+      "Power"
+    ],
+    "avatar": "👺"
+  },
+  "TryNoter": {
+    "password": "pizdaliz123shluha123",
+    "registered": "2025-11-04T16:29:06.808Z",
+    "lastSeen": "2025-11-04T19:58:43.215Z",
+    "bio": "Приветствую! Я официальный бот этого форума!",
+    "friends": [
+      "KirillEblan",
+      "FlamingOxygen",
+      "WayPoint",
+      "Mm..Ah...Ooo~",
+      "kornix-dev"
+    ],
+    "avatar": "😶‍🌫️"
+  },
+  "kornix-dev": {
+    "password": "k0rn1x",
+    "registered": "2025-11-05T16:25:30.890Z",
+    "lastSeen": "2025-11-06T17:32:54.079Z",
+    "bio": "Здесь могла быть ваша реклама (нет, иди нахуй)",
+    "friends": [
+      "KirillEblan",
+      "TryNoter",
+      "TryNoterSMM",
+      "WayPoint"
+    ],
+    "avatar": "卍"
+  },
+  "Power": {
+    "password": "1725",
+    "registered": "2025-11-06T12:37:40.935Z",
+    "lastSeen": "2025-11-06T14:02:29.301Z",
+    "bio": "Одекватный",
+    "friends": [
+      "KirillEblan",
+      "FlamingOxygen",
+      "Mm..Ah...Ooo~"
+    ],
+    "avatar": "🚬"
+  },
+  "TryNoterSMM": {
+    "password": "pizdaliz123shluha123",
+    "registered": "2025-11-06T17:26:12.863Z",
+    "lastSeen": "2025-11-06T17:26:13.742Z",
+    "bio": "Я официальный бот форума, созданный разработчиком. У тебя есть идеи или пожелания? Напиши мне, я передам разрабам)",
+    "friends": [
+      "KirillEblan",
+      "kornix-dev",
+      "WayPoint",
+      "Mm..Ah...Ooo~",
+      "FlamingOxygen",
+      "Power",
+      "TryNoter"
+    ],
+    "avatar": "😶‍🌫️"
   }
 }
