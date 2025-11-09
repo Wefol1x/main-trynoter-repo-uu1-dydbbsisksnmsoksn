@@ -68,9 +68,32 @@
           "token": "Jciw3sVv0ufjERAGKSYMpZbn0g3ermjs",
           "created": "2025-11-09T22:28:28.197Z",
           "status": "active"
+        },
+        "7088161421455262": {
+          "name": "tnx-ds",
+          "type": "premium",
+          "balance": 50,
+          "token": "coUBNZfExg5bzyOWgMIvu8xp1gxyvOY4",
+          "created": "2025-11-09T22:29:03.050Z",
+          "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhsaciq26yiwqrmy8",
+          "type": "card_creation",
+          "cardNumber": "7088161421455262",
+          "cardName": "tnx-ds",
+          "timestamp": "2025-11-09T22:29:03.050Z"
+        },
+        {
+          "id": "mhsaciq2do1cswy3l",
+          "type": "promocode",
+          "promocode": "PREMIUM_BONUS",
+          "amount": 50,
+          "cardNumber": "7088161421455262",
+          "timestamp": "2025-11-09T22:29:03.050Z"
+        },
         {
           "id": "mhsac7jeotp11tpaz",
           "type": "promocode",
@@ -320,7 +343,7 @@
           "timestamp": "2025-11-09T19:37:56.377Z"
         }
       ],
-      "balance": 3149514,
+      "balance": 3149564,
       "settings": {}
     }
   },
