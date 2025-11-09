@@ -37,8 +37,32 @@
     ],
     "avatar": "👺",
     "wallet": {
-      "cards": {},
+      "cards": {
+        "4407278659961752": {
+          "name": "tnx-crypto-main",
+          "type": "premium",
+          "balance": 50,
+          "token": "x0zRL8NdhcOss31XUh9A3qJ1iIVnNFeb",
+          "created": "2025-11-09T23:22:29.839Z",
+          "status": "active"
+        }
+      },
       "transactions": [
+        {
+          "id": "mhsc993j5ssv0cet6",
+          "type": "card_creation",
+          "cardNumber": "4407278659961752",
+          "cardName": "tnx-crypto-main",
+          "timestamp": "2025-11-09T23:22:29.839Z"
+        },
+        {
+          "id": "mhsc993jn2p1s8nk1",
+          "type": "promocode",
+          "promocode": "PREMIUM_BONUS",
+          "amount": 50,
+          "cardNumber": "4407278659961752",
+          "timestamp": "2025-11-09T23:22:29.839Z"
+        },
         {
           "id": "mhsc8zcmvnfwse02j",
           "type": "card_deletion",
@@ -54,7 +78,7 @@
           "timestamp": "2025-11-09T23:22:09.753Z"
         }
       ],
-      "balance": 0,
+      "balance": 50,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
