@@ -56,7 +56,7 @@
         "3214255531247662": {
           "name": "private-wll-tnx",
           "type": "premium",
-          "balance": 1575107,
+          "balance": 3149464,
           "token": "dp8gEhBs6yekqNYwMA78sQMaL59ntDSb",
           "created": "2025-11-09T21:50:34.452Z",
           "status": "active"
@@ -79,6 +79,14 @@
         }
       },
       "transactions": [
+        {
+          "id": "mhsaqd78hfj93r1qu",
+          "type": "promocode",
+          "promocode": "WELCOME100",
+          "amount": 1574357,
+          "cardNumber": "3214255531247662",
+          "timestamp": "2025-11-09T22:39:49.081Z"
+        },
         {
           "id": "mhsacultzpf2va543",
           "type": "promocode",
@@ -351,7 +359,7 @@
           "timestamp": "2025-11-09T19:37:56.377Z"
         }
       ],
-      "balance": 4723921,
+      "balance": 6298278,
       "settings": {}
     }
   },
