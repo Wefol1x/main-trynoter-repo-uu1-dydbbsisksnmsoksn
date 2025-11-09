@@ -56,7 +56,7 @@
         "3214255531247662": {
           "name": "private-wll-tnx",
           "type": "premium",
-          "balance": 7872535,
+          "balance": 7873263,
           "token": "dp8gEhBs6yekqNYwMA78sQMaL59ntDSb",
           "created": "2025-11-09T21:50:34.452Z",
           "status": "active"
@@ -72,13 +72,33 @@
         "7088161421455262": {
           "name": "tnx-ds",
           "type": "premium",
-          "balance": 1574407,
+          "balance": 1573679,
           "token": "coUBNZfExg5bzyOWgMIvu8xp1gxyvOY4",
           "created": "2025-11-09T22:29:03.050Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhsavh3m19hm85s6w",
+          "type": "transfer_in",
+          "fromCard": "7088161421455262",
+          "fromUser": "TryNoter",
+          "toCard": "3214255531247662",
+          "amount": 728,
+          "note": "",
+          "timestamp": "2025-11-09T22:43:47.410Z"
+        },
+        {
+          "id": "mhsavh3m19hm85s6w",
+          "type": "transfer_out",
+          "fromCard": "7088161421455262",
+          "toCard": "3214255531247662",
+          "toUser": "TryNoter",
+          "amount": 728,
+          "note": "",
+          "timestamp": "2025-11-09T22:43:47.410Z"
+        },
         {
           "id": "mhsarkxpd7bticpd2",
           "type": "promocode",
