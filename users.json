@@ -68,9 +68,32 @@
           "token": "18ijmOORPKsC2NpsRtAv5xF2iGuI69m0",
           "created": "2025-11-09T21:30:43.712Z",
           "status": "active"
+        },
+        "3214255531247662": {
+          "name": "private-wll-tnx",
+          "type": "premium",
+          "balance": 50,
+          "token": "dp8gEhBs6yekqNYwMA78sQMaL59ntDSb",
+          "created": "2025-11-09T21:50:34.452Z",
+          "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhs8z1ecycn3t2f3x",
+          "type": "card_creation",
+          "cardNumber": "3214255531247662",
+          "cardName": "private-wll-tnx",
+          "timestamp": "2025-11-09T21:50:34.452Z"
+        },
+        {
+          "id": "mhs8z1eccv5kool31",
+          "type": "promocode",
+          "promocode": "PREMIUM_BONUS",
+          "amount": 50,
+          "cardNumber": "3214255531247662",
+          "timestamp": "2025-11-09T21:50:34.452Z"
+        },
         {
           "id": "mhs8bcwhxwejbmxs2",
           "type": "transfer_in",
@@ -152,7 +175,7 @@
           "timestamp": "2025-11-09T19:37:56.377Z"
         }
       ],
-      "balance": 700,
+      "balance": 750,
       "settings": {}
     }
   },
