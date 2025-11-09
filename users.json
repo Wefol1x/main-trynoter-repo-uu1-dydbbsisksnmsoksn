@@ -50,7 +50,30 @@
       "kornix-dev",
       "Power"
     ],
-    "avatar": "😶‍🌫️"
+    "avatar": "😶‍🌫️",
+    "wallet": {
+      "cards": {
+        "5698739304030959": {
+          "name": "tnx-cc-ss",
+          "type": "premium",
+          "balance": 0,
+          "token": "vA8bOsCfs6sHUlKTScyTzi2BdCdUG43T",
+          "created": "2025-11-09T19:37:56.376Z",
+          "status": "active"
+        }
+      },
+      "transactions": [
+        {
+          "id": "mhs48gwo0jssa3baw",
+          "type": "card_creation",
+          "cardNumber": "5698739304030959",
+          "cardName": "tnx-cc-ss",
+          "timestamp": "2025-11-09T19:37:56.377Z"
+        }
+      ],
+      "balance": 0,
+      "settings": {}
+    }
   },
   "kornix-dev": {
     "password": "k0rn1x",
