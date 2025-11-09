@@ -72,13 +72,21 @@
         "7088161421455262": {
           "name": "tnx-ds",
           "type": "premium",
-          "balance": 50,
+          "balance": 1574407,
           "token": "coUBNZfExg5bzyOWgMIvu8xp1gxyvOY4",
           "created": "2025-11-09T22:29:03.050Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhsacultzpf2va543",
+          "type": "promocode",
+          "promocode": "WELCOME100",
+          "amount": 1574357,
+          "cardNumber": "7088161421455262",
+          "timestamp": "2025-11-09T22:29:18.449Z"
+        },
         {
           "id": "mhsaciq26yiwqrmy8",
           "type": "card_creation",
@@ -343,7 +351,7 @@
           "timestamp": "2025-11-09T19:37:56.377Z"
         }
       ],
-      "balance": 3149564,
+      "balance": 4723921,
       "settings": {}
     }
   },
