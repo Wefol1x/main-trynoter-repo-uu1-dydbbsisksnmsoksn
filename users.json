@@ -56,7 +56,7 @@
         "5698739304030959": {
           "name": "tnx-cc-ss",
           "type": "premium",
-          "balance": 650,
+          "balance": 550,
           "token": "vA8bOsCfs6sHUlKTScyTzi2BdCdUG43T",
           "created": "2025-11-09T19:37:56.376Z",
           "status": "active"
@@ -64,13 +64,33 @@
         "9704470554187513": {
           "name": "tnx-pro",
           "type": "premium",
-          "balance": 50,
+          "balance": 150,
           "token": "18ijmOORPKsC2NpsRtAv5xF2iGuI69m0",
           "created": "2025-11-09T21:30:43.712Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhs8bcwhxwejbmxs2",
+          "type": "transfer_in",
+          "fromCard": "5698739304030959",
+          "fromUser": "TryNoter",
+          "toCard": "9704470554187513",
+          "amount": 100,
+          "note": "Test",
+          "timestamp": "2025-11-09T21:32:09.617Z"
+        },
+        {
+          "id": "mhs8bcwhxwejbmxs2",
+          "type": "transfer_out",
+          "fromCard": "5698739304030959",
+          "toCard": "9704470554187513",
+          "toUser": "TryNoter",
+          "amount": 100,
+          "note": "Test",
+          "timestamp": "2025-11-09T21:32:09.617Z"
+        },
         {
           "id": "mhs89im9hs6qfalx5",
           "type": "card_creation",
