@@ -60,17 +60,16 @@
           "token": "dp8gEhBs6yekqNYwMA78sQMaL59ntDSb",
           "created": "2025-11-09T21:50:34.452Z",
           "status": "active"
-        },
-        "7283751629680233": {
-          "name": "tnx-min",
-          "type": "virtual",
-          "balance": 0,
-          "token": "uM98oHb9gD0Jr8NkNafTK8XqwyfnnhKl",
-          "created": "2025-11-09T22:06:26.308Z",
-          "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhs9msnivrf4wonse",
+          "type": "card_deletion",
+          "cardNumber": "7283751629680233",
+          "cardName": "tnx-min",
+          "timestamp": "2025-11-09T22:09:02.862Z"
+        },
         {
           "id": "mhs9mkkq5dtf0rs8f",
           "type": "transfer_in",
