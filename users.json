@@ -97,7 +97,9 @@
     "registered": "2025-11-09T13:13:02.489Z",
     "lastSeen": "2025-11-09T13:13:03.418Z",
     "bio": "snapKE - эуу я разраб TryNoter)",
-    "friends": [],
+    "friends": [
+      "KirillEblan"
+    ],
     "avatar": "🫨"
   }
 }
