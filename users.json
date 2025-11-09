@@ -53,14 +53,6 @@
     "avatar": "😶‍🌫️",
     "wallet": {
       "cards": {
-        "9704470554187513": {
-          "name": "tnx-pro",
-          "type": "premium",
-          "balance": 0,
-          "token": "18ijmOORPKsC2NpsRtAv5xF2iGuI69m0",
-          "created": "2025-11-09T21:30:43.712Z",
-          "status": "active"
-        },
         "3214255531247662": {
           "name": "private-wll-tnx",
           "type": "premium",
@@ -71,6 +63,13 @@
         }
       },
       "transactions": [
+        {
+          "id": "mhs9hqn4ooc2ccvc7",
+          "type": "card_deletion",
+          "cardNumber": "9704470554187513",
+          "cardName": "tnx-pro",
+          "timestamp": "2025-11-09T22:05:06.976Z"
+        },
         {
           "id": "mhs9hk25r78sro52y",
           "type": "card_deletion",
