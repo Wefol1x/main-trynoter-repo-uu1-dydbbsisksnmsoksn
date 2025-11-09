@@ -56,13 +56,21 @@
         "5698739304030959": {
           "name": "tnx-cc-ss",
           "type": "premium",
-          "balance": 150,
+          "balance": 650,
           "token": "vA8bOsCfs6sHUlKTScyTzi2BdCdUG43T",
           "created": "2025-11-09T19:37:56.376Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhs893xj5767qp2zy",
+          "type": "promocode",
+          "promocode": "TRYNOTER500",
+          "amount": 500,
+          "cardNumber": "5698739304030959",
+          "timestamp": "2025-11-09T21:30:24.679Z"
+        },
         {
           "id": "mhs88nopdnddzm8lj",
           "type": "promocode",
@@ -101,7 +109,7 @@
           "timestamp": "2025-11-09T19:37:56.377Z"
         }
       ],
-      "balance": 150,
+      "balance": 650,
       "settings": {}
     }
   },
