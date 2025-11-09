@@ -68,9 +68,24 @@
           "token": "dp8gEhBs6yekqNYwMA78sQMaL59ntDSb",
           "created": "2025-11-09T21:50:34.452Z",
           "status": "active"
+        },
+        "2945279238482610": {
+          "name": "tnx",
+          "type": "virtual",
+          "balance": 0,
+          "token": "Vj3NYdxGi0TgdbiTj5sEE6P5Q6ZJIJ9d",
+          "created": "2025-11-09T22:04:48.746Z",
+          "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhs9hckrdefnk3bgo",
+          "type": "card_creation",
+          "cardNumber": "2945279238482610",
+          "cardName": "tnx",
+          "timestamp": "2025-11-09T22:04:48.747Z"
+        },
         {
           "id": "mhs90zy1475hgikas",
           "type": "transfer_in",
