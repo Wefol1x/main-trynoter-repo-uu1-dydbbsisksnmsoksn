@@ -56,13 +56,21 @@
         "5698739304030959": {
           "name": "tnx-cc-ss",
           "type": "premium",
-          "balance": 0,
+          "balance": 50,
           "token": "vA8bOsCfs6sHUlKTScyTzi2BdCdUG43T",
           "created": "2025-11-09T19:37:56.376Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhs4a9j6uupmv6znh",
+          "type": "promocode",
+          "promocode": "FIRSTCARD50",
+          "amount": 50,
+          "cardNumber": "5698739304030959",
+          "timestamp": "2025-11-09T19:39:20.130Z"
+        },
         {
           "id": "mhs48gwo0jssa3baw",
           "type": "card_creation",
@@ -71,7 +79,7 @@
           "timestamp": "2025-11-09T19:37:56.377Z"
         }
       ],
-      "balance": 0,
+      "balance": 50,
       "settings": {}
     }
   },
