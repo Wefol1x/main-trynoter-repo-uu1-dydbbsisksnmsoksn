@@ -37,8 +37,25 @@
     ],
     "avatar": "👺",
     "wallet": {
-      "cards": {},
-      "transactions": [],
+      "cards": {
+        "2813278054722942": {
+          "name": "tnx-crypto-main",
+          "type": "virtual",
+          "balance": 0,
+          "token": "Fanjjf7s7MjoWV3kyh0L0rYlafPYrcKo",
+          "created": "2025-11-09T23:22:09.752Z",
+          "status": "active"
+        }
+      },
+      "transactions": [
+        {
+          "id": "mhsc8tlldwh7qs5nd",
+          "type": "card_creation",
+          "cardNumber": "2813278054722942",
+          "cardName": "tnx-crypto-main",
+          "timestamp": "2025-11-09T23:22:09.753Z"
+        }
+      ],
       "balance": 0,
       "settings": {
         "defaultCard": null,
