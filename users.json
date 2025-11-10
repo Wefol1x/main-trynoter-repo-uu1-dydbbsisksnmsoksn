@@ -14,13 +14,23 @@
         "4993677450185547": {
           "name": "Расистские облегации",
           "type": "premium",
-          "balance": 106,
+          "balance": 208,
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht5b2307enf1hqjg",
+          "type": "transfer_in",
+          "fromCard": "1223663334117383",
+          "fromUser": "Werline",
+          "toCard": "4993677450185547",
+          "amount": 102,
+          "note": "Дорагуше",
+          "timestamp": "2025-11-10T12:55:42.924Z"
+        },
         {
           "id": "mht48e2qtq5m5365c",
           "type": "card_deletion",
@@ -129,7 +139,7 @@
           "timestamp": "2025-11-10T11:07:23.725Z"
         }
       ],
-      "balance": 106,
+      "balance": 208,
       "settings": {}
     }
   },
@@ -669,13 +679,23 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 1155,
+          "balance": 1053,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht5b2307enf1hqjg",
+          "type": "transfer_out",
+          "fromCard": "1223663334117383",
+          "toCard": "4993677450185547",
+          "toUser": "Mm..Ah...Ooo~",
+          "amount": 102,
+          "note": "Дорагуше",
+          "timestamp": "2025-11-10T12:55:42.924Z"
+        },
         {
           "id": "mht59s8xmbywl2ttr",
           "type": "promocode",
@@ -736,7 +756,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 1155,
+      "balance": 1053,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
