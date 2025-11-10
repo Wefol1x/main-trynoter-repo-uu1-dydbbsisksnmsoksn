@@ -175,13 +175,23 @@
         "4407278659961752": {
           "name": "tnx-crypto-main",
           "type": "premium",
-          "balance": 39,
+          "balance": 0,
           "token": "x0zRL8NdhcOss31XUh9A3qJ1iIVnNFeb",
           "created": "2025-11-09T23:22:29.839Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht6ym62as530blfj",
+          "type": "transfer_out",
+          "fromCard": "4407278659961752",
+          "toCard": "1223663334117383",
+          "toUser": "Werline",
+          "amount": 39,
+          "note": "",
+          "timestamp": "2025-11-10T13:42:01.667Z"
+        },
         {
           "id": "mht3gugamd638h5nd",
           "type": "transfer_in",
@@ -242,7 +252,7 @@
           "timestamp": "2025-11-09T23:22:09.753Z"
         }
       ],
-      "balance": 39,
+      "balance": 0,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
@@ -679,13 +689,23 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 1053,
+          "balance": 1092,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht6ym62as530blfj",
+          "type": "transfer_in",
+          "fromCard": "4407278659961752",
+          "fromUser": "KirillEblan",
+          "toCard": "1223663334117383",
+          "amount": 39,
+          "note": "",
+          "timestamp": "2025-11-10T13:42:01.671Z"
+        },
         {
           "id": "mht5b2307enf1hqjg",
           "type": "transfer_out",
@@ -756,7 +776,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 1053,
+      "balance": 1092,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
