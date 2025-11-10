@@ -7,7 +7,38 @@
     "friends": [
       "KirillEblan"
     ],
-    "avatar": "🪬"
+    "avatar": "🪬",
+    "wallet": {
+      "cards": {
+        "4993677450185547": {
+          "name": "Расистские облегации",
+          "type": "premium",
+          "balance": 50,
+          "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
+          "created": "2025-11-10T11:07:23.725Z",
+          "status": "active"
+        }
+      },
+      "transactions": [
+        {
+          "id": "mht1fr9po5j0a4h8m",
+          "type": "card_creation",
+          "cardNumber": "4993677450185547",
+          "cardName": "Расистские облегации",
+          "timestamp": "2025-11-10T11:07:23.725Z"
+        },
+        {
+          "id": "mht1fr9pqolqmzdhi",
+          "type": "promocode",
+          "promocode": "PREMIUM_BONUS",
+          "amount": 50,
+          "cardNumber": "4993677450185547",
+          "timestamp": "2025-11-10T11:07:23.725Z"
+        }
+      ],
+      "balance": 50,
+      "settings": {}
+    }
   },
   "FlamingOxygen": {
     "password": "РХДШ",
