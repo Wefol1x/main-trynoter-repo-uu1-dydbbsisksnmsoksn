@@ -13,13 +13,23 @@
         "4993677450185547": {
           "name": "Расистские облегации",
           "type": "premium",
-          "balance": 72,
+          "balance": 61,
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht3gugamd638h5nd",
+          "type": "transfer_out",
+          "fromCard": "4993677450185547",
+          "toCard": "4407278659961752",
+          "toUser": "KirillEblan",
+          "amount": 11,
+          "note": "Говно в расистской шубе",
+          "timestamp": "2025-11-10T12:04:13.738Z"
+        },
         {
           "id": "mht345gh1p281s9gt",
           "type": "transfer_in",
@@ -56,7 +66,7 @@
           "timestamp": "2025-11-10T11:07:23.725Z"
         }
       ],
-      "balance": 72,
+      "balance": 61,
       "settings": {}
     }
   },
@@ -92,13 +102,23 @@
         "4407278659961752": {
           "name": "tnx-crypto-main",
           "type": "premium",
-          "balance": 28,
+          "balance": 39,
           "token": "x0zRL8NdhcOss31XUh9A3qJ1iIVnNFeb",
           "created": "2025-11-09T23:22:29.839Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht3gugamd638h5nd",
+          "type": "transfer_in",
+          "fromCard": "4993677450185547",
+          "fromUser": "Mm..Ah...Ooo~",
+          "toCard": "4407278659961752",
+          "amount": 11,
+          "note": "Говно в расистской шубе",
+          "timestamp": "2025-11-10T12:04:13.738Z"
+        },
         {
           "id": "mht345gh1p281s9gt",
           "type": "transfer_out",
@@ -149,7 +169,7 @@
           "timestamp": "2025-11-09T23:22:09.753Z"
         }
       ],
-      "balance": 28,
+      "balance": 39,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
