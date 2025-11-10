@@ -13,13 +13,23 @@
         "4993677450185547": {
           "name": "Расистские облегации",
           "type": "premium",
-          "balance": 61,
+          "balance": 72,
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht345gh1p281s9gt",
+          "type": "transfer_in",
+          "fromCard": "4407278659961752",
+          "fromUser": "KirillEblan",
+          "toCard": "4993677450185547",
+          "amount": 11,
+          "note": "Соси хуй",
+          "timestamp": "2025-11-10T11:54:21.473Z"
+        },
         {
           "id": "mht33uk5ecngza61g",
           "type": "transfer_in",
@@ -46,7 +56,7 @@
           "timestamp": "2025-11-10T11:07:23.725Z"
         }
       ],
-      "balance": 61,
+      "balance": 72,
       "settings": {}
     }
   },
@@ -82,13 +92,23 @@
         "4407278659961752": {
           "name": "tnx-crypto-main",
           "type": "premium",
-          "balance": 39,
+          "balance": 28,
           "token": "x0zRL8NdhcOss31XUh9A3qJ1iIVnNFeb",
           "created": "2025-11-09T23:22:29.839Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht345gh1p281s9gt",
+          "type": "transfer_out",
+          "fromCard": "4407278659961752",
+          "toCard": "4993677450185547",
+          "toUser": "Mm..Ah...Ooo~",
+          "amount": 11,
+          "note": "Соси хуй",
+          "timestamp": "2025-11-10T11:54:21.473Z"
+        },
         {
           "id": "mht33uk5ecngza61g",
           "type": "transfer_out",
@@ -129,7 +149,7 @@
           "timestamp": "2025-11-09T23:22:09.753Z"
         }
       ],
-      "balance": 39,
+      "balance": 28,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
