@@ -14,7 +14,7 @@
         "4993677450185547": {
           "name": "Расистские облегации",
           "type": "premium",
-          "balance": 56,
+          "balance": 106,
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
@@ -22,13 +22,33 @@
         "0268917481242578": {
           "name": "Хуйло",
           "type": "premium",
-          "balance": 50,
+          "balance": 0,
           "token": "jLkXQhmGZPYYN99IZQ1rUwDGKswfvsXH",
           "created": "2025-11-10T12:24:42.076Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht485832ee5jtbf8",
+          "type": "transfer_in",
+          "fromCard": "0268917481242578",
+          "fromUser": "Mm..Ah...Ooo~",
+          "toCard": "4993677450185547",
+          "amount": 50,
+          "note": "",
+          "timestamp": "2025-11-10T12:25:27.411Z"
+        },
+        {
+          "id": "mht485832ee5jtbf8",
+          "type": "transfer_out",
+          "fromCard": "0268917481242578",
+          "toCard": "4993677450185547",
+          "toUser": "Mm..Ah...Ooo~",
+          "amount": 50,
+          "note": "",
+          "timestamp": "2025-11-10T12:25:27.411Z"
+        },
         {
           "id": "mht4768tkrlfunlkk",
           "type": "card_creation",
