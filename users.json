@@ -18,17 +18,16 @@
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
-        },
-        "0268917481242578": {
-          "name": "Хуйло",
-          "type": "premium",
-          "balance": 0,
-          "token": "jLkXQhmGZPYYN99IZQ1rUwDGKswfvsXH",
-          "created": "2025-11-10T12:24:42.076Z",
-          "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mht48e2qtq5m5365c",
+          "type": "card_deletion",
+          "cardNumber": "0268917481242578",
+          "cardName": "Хуйло",
+          "timestamp": "2025-11-10T12:25:38.882Z"
+        },
         {
           "id": "mht485832ee5jtbf8",
           "type": "transfer_in",
