@@ -600,6 +600,16 @@
       "TryNoter",
       "TryNoterSMM"
     ],
-    "avatar": "🫨"
+    "avatar": "🫨",
+    "wallet": {
+      "cards": {},
+      "transactions": [],
+      "balance": 0,
+      "settings": {
+        "defaultCard": null,
+        "securityLevel": "high",
+        "autoRefresh": true
+      }
+    }
   }
 }
