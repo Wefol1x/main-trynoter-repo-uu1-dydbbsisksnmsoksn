@@ -603,9 +603,34 @@
     ],
     "avatar": "🫨",
     "wallet": {
-      "cards": {},
-      "transactions": [],
-      "balance": 0,
+      "cards": {
+        "1223663334117383": {
+          "name": "tnx-c-s",
+          "type": "premium",
+          "balance": 50,
+          "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
+          "created": "2025-11-10T12:18:51.559Z",
+          "status": "active"
+        }
+      },
+      "transactions": [
+        {
+          "id": "mht3zns8iilhx315k",
+          "type": "card_creation",
+          "cardNumber": "1223663334117383",
+          "cardName": "tnx-c-s",
+          "timestamp": "2025-11-10T12:18:51.560Z"
+        },
+        {
+          "id": "mht3zns87ryp4ir85",
+          "type": "promocode",
+          "promocode": "PREMIUM_BONUS",
+          "amount": 50,
+          "cardNumber": "1223663334117383",
+          "timestamp": "2025-11-10T12:18:51.560Z"
+        }
+      ],
+      "balance": 50,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
