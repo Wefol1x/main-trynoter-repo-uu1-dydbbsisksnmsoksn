@@ -171,17 +171,15 @@
     ],
     "avatar": "👺",
     "wallet": {
-      "cards": {
-        "4407278659961752": {
-          "name": "tnx-crypto-main",
-          "type": "premium",
-          "balance": 0,
-          "token": "x0zRL8NdhcOss31XUh9A3qJ1iIVnNFeb",
-          "created": "2025-11-09T23:22:29.839Z",
-          "status": "active"
-        }
-      },
+      "cards": {},
       "transactions": [
+        {
+          "id": "mht6yrz8gjdez1r4r",
+          "type": "card_deletion",
+          "cardNumber": "4407278659961752",
+          "cardName": "tnx-crypto-main",
+          "timestamp": "2025-11-10T13:42:09.188Z"
+        },
         {
           "id": "mht6ym62as530blfj",
           "type": "transfer_out",
