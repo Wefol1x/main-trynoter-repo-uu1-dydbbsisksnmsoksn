@@ -685,13 +685,21 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 11744479,
+          "balance": 129141116,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhv1vez5ba8i4p8d7",
+          "type": "promocode",
+          "promocode": "AAA",
+          "amount": 117396637,
+          "cardNumber": "1223663334117383",
+          "timestamp": "2025-11-11T20:55:06.641Z"
+        },
         {
           "id": "mhv1tfsfuepev2573",
           "type": "promocode",
@@ -844,7 +852,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 11744479,
+      "balance": 129141116,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
