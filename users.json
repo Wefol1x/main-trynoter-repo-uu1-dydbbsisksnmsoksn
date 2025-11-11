@@ -685,13 +685,21 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 4692,
+          "balance": 4742,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhv119elqkb2jd73z",
+          "type": "promocode",
+          "promocode": "TRYNOTER50",
+          "amount": 50,
+          "cardNumber": "1223663334117383",
+          "timestamp": "2025-11-11T20:31:39.750Z"
+        },
         {
           "id": "mhuygnfemdai4pw9b",
           "type": "promocode",
@@ -820,7 +828,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 4692,
+      "balance": 4742,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
