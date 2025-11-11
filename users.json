@@ -689,17 +689,16 @@
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
-        },
-        "8582828779193591": {
-          "name": "tnx-oll",
-          "type": "virtual",
-          "balance": 0,
-          "token": "IkoMe90nENQIBGJbBj43oMvdpKIGweZZ",
-          "created": "2025-11-11T20:55:36.419Z",
-          "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhv1x8uyogpg3k10q",
+          "type": "card_deletion",
+          "cardNumber": "8582828779193591",
+          "cardName": "tnx-oll",
+          "timestamp": "2025-11-11T20:56:32.026Z"
+        },
         {
           "id": "mhv1w1ybho5usl7u7",
           "type": "card_creation",
