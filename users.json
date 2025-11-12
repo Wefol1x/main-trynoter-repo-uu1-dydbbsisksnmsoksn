@@ -14,13 +14,23 @@
         "4993677450185547": {
           "name": "Расистские облегации",
           "type": "premium",
-          "balance": 1208,
+          "balance": 1488,
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhvwvn0n0ox70s6vi",
+          "type": "transfer_in",
+          "fromCard": "1223663334117383",
+          "fromUser": "Werline",
+          "toCard": "4993677450185547",
+          "amount": 280,
+          "note": "Пасхалко",
+          "timestamp": "2025-11-12T11:23:05.160Z"
+        },
         {
           "id": "mhvwugey2rr876k7e",
           "type": "transfer_in",
@@ -149,7 +159,7 @@
           "timestamp": "2025-11-10T11:07:23.725Z"
         }
       ],
-      "balance": 1208,
+      "balance": 1488,
       "settings": {}
     }
   },
@@ -730,13 +740,23 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 129140116,
+          "balance": 129139836,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhvwvn0n0ox70s6vi",
+          "type": "transfer_out",
+          "fromCard": "1223663334117383",
+          "toCard": "4993677450185547",
+          "toUser": "Mm..Ah...Ooo~",
+          "amount": 280,
+          "note": "Пасхалко",
+          "timestamp": "2025-11-12T11:23:05.159Z"
+        },
         {
           "id": "mhvwugey2rr876k7e",
           "type": "transfer_out",
@@ -921,7 +941,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 129140116,
+      "balance": 129139836,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
