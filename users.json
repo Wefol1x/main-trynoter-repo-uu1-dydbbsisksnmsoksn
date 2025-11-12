@@ -179,13 +179,23 @@
         "5037067463678644": {
           "name": "tnx-asteble",
           "type": "premium",
-          "balance": 50,
+          "balance": 1050,
           "token": "Rtz7YCMGXj8uDMFGPwy94phz5TwLppSu",
           "created": "2025-11-12T11:20:34.447Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhvwy6hvso80b52cz",
+          "type": "transfer_in",
+          "fromCard": "1223663334117383",
+          "fromUser": "Werline",
+          "toCard": "5037067463678644",
+          "amount": 1000,
+          "note": "Рыжему пидару",
+          "timestamp": "2025-11-12T11:25:03.727Z"
+        },
         {
           "id": "mhvwseq9r1qcuiq9v",
           "type": "card_creation",
@@ -202,7 +212,7 @@
           "timestamp": "2025-11-12T11:20:34.449Z"
         }
       ],
-      "balance": 50,
+      "balance": 1050,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
@@ -740,13 +750,23 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 129139836,
+          "balance": 129138836,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhvwy6hvso80b52cz",
+          "type": "transfer_out",
+          "fromCard": "1223663334117383",
+          "toCard": "5037067463678644",
+          "toUser": "FlamingOxygen",
+          "amount": 1000,
+          "note": "Рыжему пидару",
+          "timestamp": "2025-11-12T11:25:03.721Z"
+        },
         {
           "id": "mhvwvn0n0ox70s6vi",
           "type": "transfer_out",
@@ -941,7 +961,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 129139836,
+      "balance": 129138836,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
