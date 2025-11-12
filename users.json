@@ -14,13 +14,21 @@
         "4993677450185547": {
           "name": "Расистские облегации",
           "type": "premium",
-          "balance": 1488,
+          "balance": 1001488,
           "token": "j11jfLwBzAYI9L0rutk3KBiVVviTSMgP",
           "created": "2025-11-10T11:07:23.725Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhvx2s1r4lhqnitam",
+          "type": "promocode",
+          "promocode": "WERLINEDR",
+          "amount": 1000000,
+          "cardNumber": "4993677450185547",
+          "timestamp": "2025-11-12T11:28:38.271Z"
+        },
         {
           "id": "mhvwvn0n0ox70s6vi",
           "type": "transfer_in",
@@ -159,7 +167,7 @@
           "timestamp": "2025-11-10T11:07:23.725Z"
         }
       ],
-      "balance": 1488,
+      "balance": 1001488,
       "settings": {}
     }
   },
