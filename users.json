@@ -187,13 +187,21 @@
         "5037067463678644": {
           "name": "tnx-asteble",
           "type": "premium",
-          "balance": 1050,
+          "balance": 1001050,
           "token": "Rtz7YCMGXj8uDMFGPwy94phz5TwLppSu",
           "created": "2025-11-12T11:20:34.447Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mhvx42nijgsd6i75g",
+          "type": "promocode",
+          "promocode": "WERLINEDR",
+          "amount": 1000000,
+          "cardNumber": "5037067463678644",
+          "timestamp": "2025-11-12T11:29:38.670Z"
+        },
         {
           "id": "mhvwy6hvso80b52cz",
           "type": "transfer_in",
@@ -220,7 +228,7 @@
           "timestamp": "2025-11-12T11:20:34.449Z"
         }
       ],
-      "balance": 1050,
+      "balance": 1001050,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
