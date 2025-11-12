@@ -155,9 +155,34 @@
     ],
     "avatar": "🪬",
     "wallet": {
-      "cards": {},
-      "transactions": [],
-      "balance": 0,
+      "cards": {
+        "5037067463678644": {
+          "name": "tnx-asteble",
+          "type": "premium",
+          "balance": 50,
+          "token": "Rtz7YCMGXj8uDMFGPwy94phz5TwLppSu",
+          "created": "2025-11-12T11:20:34.447Z",
+          "status": "active"
+        }
+      },
+      "transactions": [
+        {
+          "id": "mhvwseq9r1qcuiq9v",
+          "type": "card_creation",
+          "cardNumber": "5037067463678644",
+          "cardName": "tnx-asteble",
+          "timestamp": "2025-11-12T11:20:34.449Z"
+        },
+        {
+          "id": "mhvwseq9x029ufgji",
+          "type": "promocode",
+          "promocode": "PREMIUM_BONUS",
+          "amount": 50,
+          "cardNumber": "5037067463678644",
+          "timestamp": "2025-11-12T11:20:34.449Z"
+        }
+      ],
+      "balance": 50,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
