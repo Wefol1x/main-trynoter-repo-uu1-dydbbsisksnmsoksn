@@ -729,7 +729,17 @@
       "FlamingOxygen",
       "Mm..Ah...Ooo~"
     ],
-    "avatar": "🚬"
+    "avatar": "🚬",
+    "wallet": {
+      "cards": {},
+      "transactions": [],
+      "balance": 0,
+      "settings": {
+        "defaultCard": null,
+        "securityLevel": "high",
+        "autoRefresh": true
+      }
+    }
   },
   "TryNoterSMM": {
     "password": "pizdaliz123shluha123",
