@@ -50,13 +50,23 @@
         "5037067463678644": {
           "name": "WPWX-OFFICIAL-SUSs",
           "type": "premium",
-          "balance": 18356170,
+          "balance": 18356658,
           "token": "Rtz7YCMGXj8uDMFGPwy94phz5TwLppSu",
           "created": "2025-11-12T11:20:34.447Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mi8s91p54myx3bixs",
+          "type": "transfer_in",
+          "fromCard": "1223663334117383",
+          "fromUser": "Werline",
+          "toCard": "5037067463678644",
+          "amount": 488,
+          "note": "Ражему пидару еще",
+          "timestamp": "2025-11-21T11:34:32.932Z"
+        },
         {
           "id": "mhvwseq9x029ufgji",
           "type": "promocode",
@@ -66,7 +76,7 @@
           "timestamp": "2025-11-12T11:20:34.449Z"
         }
       ],
-      "balance": 18356170,
+      "balance": 18356658,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
@@ -510,13 +520,23 @@
         "1223663334117383": {
           "name": "tnx-c-s",
           "type": "premium",
-          "balance": 129138836,
+          "balance": 129138348,
           "token": "rRt0zvZzL6W71zm1viNL0dduqdSaFdVF",
           "created": "2025-11-10T12:18:51.559Z",
           "status": "active"
         }
       },
       "transactions": [
+        {
+          "id": "mi8s91p54myx3bixs",
+          "type": "transfer_out",
+          "fromCard": "1223663334117383",
+          "toCard": "5037067463678644",
+          "toUser": "FlamingOxygen",
+          "amount": 488,
+          "note": "Ражему пидару еще",
+          "timestamp": "2025-11-21T11:34:32.924Z"
+        },
         {
           "id": "mhvwy6hvso80b52cz",
           "type": "transfer_out",
@@ -721,7 +741,7 @@
           "timestamp": "2025-11-10T12:18:51.560Z"
         }
       ],
-      "balance": 129138836,
+      "balance": 129138348,
       "settings": {
         "defaultCard": null,
         "securityLevel": "high",
