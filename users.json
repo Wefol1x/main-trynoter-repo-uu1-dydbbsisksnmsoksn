@@ -755,7 +755,9 @@
     "registered": "2025-12-29T11:02:01.847Z",
     "lastSeen": "2026-01-01T13:00:47.754Z",
     "bio": "",
-    "friends": [],
+    "friends": [
+      "Werline"
+    ],
     "avatar": "𒅒",
     "wallet": {
       "cards": {},
