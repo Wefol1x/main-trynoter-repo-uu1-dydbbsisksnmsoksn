@@ -785,6 +785,16 @@
     "lastSeen": "2026-02-21T10:21:34.492Z",
     "bio": "",
     "friends": [],
-    "avatar": "👤"
+    "avatar": "👤",
+    "wallet": {
+      "cards": {},
+      "transactions": [],
+      "balance": 0,
+      "settings": {
+        "defaultCard": null,
+        "securityLevel": "high",
+        "autoRefresh": true
+      }
+    }
   }
 }
